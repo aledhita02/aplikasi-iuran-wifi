@@ -21,7 +21,7 @@ License by Alessandro Pramudhita Putra Setyawan (Github: [@aledhita02](https://g
 
 ## Screenshots
 
-![App Screenshot](https://media.discordapp.net/attachments/892804875258314772/1186333050997592204/image.png?ex=6592ddc0&is=658068c0&hm=e8f5735d784d285417a8f8e2f9edbc3bfbc0de7d33804570e0113b1aede80daa&=&format=webp&quality=lossless&width=1430&height=701)
+![App Screenshot](https://media.discordapp.net/attachments/892804875258314772/1186338066084925490/image.png?ex=6592e26c&is=65806d6c&hm=a307c200761382054de826dc518282f0fe4c3d4072821404fe409aa20d1c5343&=&format=webp&quality=lossless&width=1440&height=666)
 
 
 ## Feedback
